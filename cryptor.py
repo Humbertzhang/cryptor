@@ -3,7 +3,7 @@ Only for ASCII Characters.
 '''
 import base64
 
-class Crypter:
+class Cryptor:
     
     def __init__(self, keys):
         '''
